@@ -41,3 +41,4 @@ camelCase
 PascalCase
 snake_case
 kebab-case
+
